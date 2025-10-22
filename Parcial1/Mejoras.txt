@@ -1,0 +1,16 @@
+*Leer bien el artículo y la clasificación de las galaxias.
+*Ver cuáles clases de galaxias son mejores para tomar según el árbol mostrado en el artículo.
+*Entender qué representan las probabilidades y ver qué clases se acomodan mejor para cada galaxia. (probabilidad condicionada, la probabilidad de que ocurra a dado que ya ocurrió b).
+*Redimensionar las imágenes, recortarlas para evitar todo el ruido que hay en la imagen completa.
+*Ver la posibilidad de hacer un .fits y los histogramas para acomodar la intensidad del brillo de las imágenes
+*Mostrar las métricas para cada clase
+*Imprimir los tiempos empleados en cada uno de los métodos de machine learning.
+*Paralelizar para utilizar la mayor cantidad de núcleos disponibles.
+*Tener en cuenta el gradiente descendente.
+*Tabla con las diferentes métricas por los diferentes métodos empleados y los tiempos de ejecución de cada uno.
+*Explicar qué significa cada clase, las preguntas qué se les hicieron a los usuarios
+*Mirar si se puede hacer uso del radio de petro para recortar las imágenes, buscar en un catálogo del SDSS y ver si coinciden los radios para poder usar este método.
+
+
+
+

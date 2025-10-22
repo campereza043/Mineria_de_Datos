@@ -1,0 +1,3 @@
+Problemas parcial minería
+1. Tuvimos que aumentar el número de iteraciones para que siguiera corriendo el código, ya que alcanzaba el máximo y se interrumpía.
+2. Apareció "run time warining", el cuál viene de numpy y aparece cuando la operación arroja valores muy grandes; puede pasar por valores extremos. Para solucionarlo se normalizan los flotantes entre 0 y 1

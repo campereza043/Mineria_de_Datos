@@ -1,0 +1,7 @@
+*Las probabilidades de las clases son condicionadas, dado que ya se esocgió el tipo de galaxia se realizan ciertas preguntas específicas
+*Para el recorte de las imágenes se usarán dos métodos:
+    Desde el centro tantos píxeles.
+    Desde el punto más luminoso más cercano al centro, utilizando la luminosidad del borde de la galaxia.
+*Para el estudio de las imágenes se piensa utilizar la imágen completa y la imágen recortada por los dos diferentes métodos. Utilizando 2000, 10000 y la totalidad de las imágenes.
+
+
