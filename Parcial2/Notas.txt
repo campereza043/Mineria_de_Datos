@@ -1,0 +1,78 @@
+ Lineal Regression
+ GD
+ SGD
+HPO
+
+CLASSIFICATION
+
+1. Grid Search
+ SVM
+ Arboles de decisión
+ Random Forest
+
+ KNN (k-nearest neighbor)
+ ANN (Artificial neutral network)
+
+2. Random Search
+ Random Forest
+ SVM
+ KNN
+ ANN
+
+3. Hyperband
+ Random Forest
+ SVM
+ KNN
+ ANN
+
+4. BO-GP
+skopt.BayesSearchCV
+ Random Forest
+ SVM
+ KNN
+ ANN
+skopt.gp_minimize
+ Random Forest
+ SVM
+ KNN
+ ANN
+
+5. BO-TPE
+ Random Forest
+ SVM
+ KNN
+ ANN
+
+6. PSO
+ Random Forest
+ SVM
+ KNN
+ ANN
+
+7. Genetic Algorithn
+DEAP
+ Random Forest
+ SVM
+ KNN
+ ANN
+TPOT
+ Random Forest
+ SVM
+ KNN
+ ANN
+
+ REGRESSORS
+
+ Fold Cross-Validation
+ Random Forest
+ SVM
+ KNN
+ ANN
+
+clustering
+k-means
+PCA
+clustering jerárquico aglomerativo
+DBScan
+reducción de dimensionalidad
+Redes neuronales
