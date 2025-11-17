@@ -76,3 +76,17 @@ clustering jerárquico aglomerativo
 DBScan
 reducción de dimensionalidad
 Redes neuronales
+
+
+--------------------------------------------------------------------------------------------
+
+Tiempos Decision Tree
+Entrenamiento 5' 7.8''
+Curva de aprendizaje 20' 2.7''
+
+Tiempos SGD
+Entrenamiento 2' 52.8''
+Curva de aprendizaje 9' 59.9''
+
+Curva de aprendizaje combinada 90' 36.9'
+
