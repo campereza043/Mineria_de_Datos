@@ -1,20 +1,18 @@
- Lineal Regression
- GD
- SGD
-HPO
+ Lineal Regression (CHECK)
+ GD (CHECK)
+ SGD (CHECK)
 
 CLASSIFICATION
 
 1. Grid Search
  SVM
- Arboles de decisión
- Random Forest
-
- KNN (k-nearest neighbor)
- ANN (Artificial neutral network)
+ Arboles de decisión (CHECK)
+ Random Forest (CHECK)
+ KNN (k-nearest neighbor)(CHECK)
+ ANN (Artificial neutral network) (CHECK)
 
 2. Random Search
- Random Forest
+ Random Forest (CHECK)
  SVM
  KNN
  ANN
