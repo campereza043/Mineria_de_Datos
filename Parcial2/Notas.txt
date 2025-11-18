@@ -90,3 +90,7 @@ Curva de aprendizaje 9' 59.9''
 
 Curva de aprendizaje combinada 90' 36.9'
 
+Tiempos Random Forest (Random Search)
+Entrenamiento 62' 22.7''
+Curva de aprendizaje 23' 39.8''
+
