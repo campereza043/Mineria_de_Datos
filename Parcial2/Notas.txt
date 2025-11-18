@@ -21,7 +21,7 @@ CLASSIFICATION
  Random Forest (CHECK)
  SVM
  KNN (CHECK)
- ANN
+ ANN (CHECK)
 
 4. BO-GP
 skopt.BayesSearchCV
