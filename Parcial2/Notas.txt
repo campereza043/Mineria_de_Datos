@@ -14,11 +14,11 @@ CLASSIFICATION
 2. Random Search
  Random Forest (CHECK)
  SVM
- KNN
+ KNN (CHECK)
  ANN
 
 3. Hyperband
- Random Forest
+ Random Forest (CHECK)
  SVM
  KNN
  ANN
