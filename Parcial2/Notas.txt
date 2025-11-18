@@ -1,28 +1,26 @@
- Lineal Regression
- GD
- SGD
-HPO
+ Lineal Regression (CHECK)
+ GD (CHECK)
+ SGD (CHECK)
 
 CLASSIFICATION
 
 1. Grid Search
  SVM
- Arboles de decisión
- Random Forest
-
- KNN (k-nearest neighbor)
- ANN (Artificial neutral network)
+ Arboles de decisión (CHECK)
+ Random Forest (CHECK)
+ KNN (k-nearest neighbor)(CHECK)
+ ANN (Artificial neutral network) (CHECK)
 
 2. Random Search
- Random Forest
+ Random Forest (CHECK)
  SVM
- KNN
+ KNN (CHECK)
  ANN
 
 3. Hyperband
- Random Forest
+ Random Forest (CHECK)
  SVM
- KNN
+ KNN (CHECK)
  ANN
 
 4. BO-GP
@@ -89,4 +87,8 @@ Entrenamiento 2' 52.8''
 Curva de aprendizaje 9' 59.9''
 
 Curva de aprendizaje combinada 90' 36.9'
+
+Tiempos Random Forest (Random Search)
+Entrenamiento 62' 22.7''
+Curva de aprendizaje 23' 39.8''
 
