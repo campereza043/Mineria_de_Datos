@@ -20,7 +20,7 @@ CLASSIFICATION
 3. Hyperband
  Random Forest (CHECK)
  SVM
- KNN
+ KNN (CHECK)
  ANN
 
 4. BO-GP
