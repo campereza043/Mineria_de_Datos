@@ -28,7 +28,6 @@ skopt.BayesSearchCV
  Random Forest (CHECK)
  SVM
  KNN
- ANN
 skopt.gp_minimize
  Random Forest
  SVM
