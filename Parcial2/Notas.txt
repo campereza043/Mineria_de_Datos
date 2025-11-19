@@ -15,7 +15,7 @@ CLASSIFICATION
  Random Forest (CHECK)
  SVM
  KNN (CHECK)
- ANN
+ ANN (CHECK)
 
 3. Hyperband
  Random Forest (CHECK)
@@ -25,7 +25,7 @@ CLASSIFICATION
 
 4. BO-GP
 skopt.BayesSearchCV
- Random Forest
+ Random Forest (CHECK)
  SVM
  KNN
  ANN
