@@ -1,2 +1,2 @@
-energy,eta,phi,time,detid,front_1,front_2,front_3,front_4,back_1,back_2,back_3,back_4
+energy,eta,phi,time,detid,front_1_x,front_1_y,front_1_z,front_2_x,front_2_y,front_2_z,front_3_x,front_3_y,front_3_z,front_4_x,front_4_y,front_4_z,back_1_x,back_1_y,back_1_z,back_2_x,back_2_y,back_2_z,back_3_x,back_3_y,back_3_z,back_4_x,back_4_y,back_4_z
 43.7299,-1.785,1.309,-1.1247,1140869775,0.251869,1.42842,-4.00458,0.496085,1.36298,-4.00458,0.451026,1.23918,-4.00458,0.228992,1.29868,-4.00458,0.274329,1.5558,-4.36168,0.540322,1.48452,-4.36168,0.491245,1.34969,-4.36168,0.249412,1.41448,-4.36168

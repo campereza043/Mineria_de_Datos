@@ -1,2 +1,2 @@
-pt,charge,pos,phi,eta
+pt,charge,pos_x,pos_y,pos_z,phi,eta
 2.00668,-1,0.000752377,0.000616761,0.051348,-1.12881,-1.5519

@@ -1,4 +1,4 @@
-energy,pos,eta,phi,algo,etaWidth,phiWidth,rawEnergy,preshowerEnergy
+energy,pos_x,pos_y,pos_z,eta,phi,algo,etaWidth,phiWidth,rawEnergy,preshowerEnergy
 27.012,-0.418796,1.30823,0.386,0.277436,1.88061,undefined,0.0127222,0.051585,26.7153,0
 16.4177,-0.388332,1.31764,0.251663,0.182195,1.8574,undefined,0.0190902,0.0473308,16.2201,0
 15.4319,1.15367,0.721056,0.83133,0.578285,0.558605,undefined,0.0161062,0.0496443,15.166,0

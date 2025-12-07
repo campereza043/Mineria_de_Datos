@@ -1,2 +1,2 @@
-pt,eta,phi,charge,pos,dir
+pt,eta,phi,charge,pos_x,pos_y,pos_z,dir_x,dir_y,dir_z
 5.53282,1.09597,-1.15424,-1,0.00102473,0.000737454,-0.0153533,2.23867,-5.05969,7.35278
