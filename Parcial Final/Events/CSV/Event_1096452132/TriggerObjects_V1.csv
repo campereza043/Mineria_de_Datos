@@ -1,0 +1,9 @@
+path,slot,moduleLabel,moduleType,VID,KEY,id,pt,eta,phi,mass
+HLT_DiJet40Eta2p6_BTagIP3DFastPV_v5,7,hltL1sL1DoubleJet36Central,HLTLevel1GTSeed,-84,78,0,44,-1.566,2.0944,0
+HLT_DiJet40Eta2p6_BTagIP3DFastPV_v5,7,hltL1sL1DoubleJet36Central,HLTLevel1GTSeed,-86,80,0,52,1.956,-0.349066,0
+HLT_DiJet40Eta2p6_BTagIP3DFastPV_v5,21,hltDoubleBJet40Eta2p6L1FastJet,HLT1CaloJet,86,0,0,71.2521,1.81883,-0.49345,14.9991
+HLT_DiJet40Eta2p6_BTagIP3DFastPV_v5,21,hltDoubleBJet40Eta2p6L1FastJet,HLT1CaloJet,86,1,0,57.4152,-1.7009,2.21705,11.2325
+HLT_DiJet80Eta2p6_BTagIP3DFastPVLoose_v5,7,hltL1sL1DoubleJet36Central,HLTLevel1GTSeed,-84,78,0,44,-1.566,2.0944,0
+HLT_DiJet80Eta2p6_BTagIP3DFastPVLoose_v5,7,hltL1sL1DoubleJet36Central,HLTLevel1GTSeed,-86,80,0,52,1.956,-0.349066,0
+HLT_L1DoubleJet36Central_v7,7,hltL1sL1DoubleJet36Central,HLTLevel1GTSeed,-84,78,0,44,-1.566,2.0944,0
+HLT_L1DoubleJet36Central_v7,7,hltL1sL1DoubleJet36Central,HLTLevel1GTSeed,-86,80,0,52,1.956,-0.349066,0

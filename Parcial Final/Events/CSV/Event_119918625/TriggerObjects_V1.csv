@@ -1,0 +1,17 @@
+path,slot,moduleLabel,moduleType,VID,KEY,id,pt,eta,phi,mass
+HLT_Mu5_v19,7,hltL1sL1SingleMu3,HLTLevel1GTSeed,-81,14,0,3.5,1.45,-0.479966,0.105658
+HLT_Mu8_v17,7,hltL1sL1SingleMu3,HLTLevel1GTSeed,-81,14,0,3.5,1.45,-0.479966,0.105658
+HLT_Mu8_v17,22,hltL2fL1sMu3L2Filtered3,HLTMuonL2PreFilter,83,0,-13,7.03247,1.44721,-0.200187,0
+HLT_Mu8_v17,48,hltL3fL1sMu3L3Filtered8,HLTMuonL3PreFilter,83,1,-13,9.46263,0.934588,-0.24435,0
+HLT_RelIso1p0Mu5_v5,7,hltL1sL1SingleMu3,HLTLevel1GTSeed,-81,14,0,3.5,1.45,-0.479966,0.105658
+HLT_RelIso1p0Mu5_v5,22,hltL2fL1sMu3L2Filtered3,HLTMuonL2PreFilter,83,0,-13,7.03247,1.44721,-0.200187,0
+HLT_RelIso1p0Mu5_v5,48,hltL3fL1sMu3L3Filtered5,HLTMuonL3PreFilter,83,1,-13,9.46263,0.934588,-0.24435,0
+HLT_RelIso1p0Mu5_v5,69,hltL3reliso1p0mufiltermu5,HLTMuonIsoFilter,83,1,-13,9.46263,0.934588,-0.24435,0
+HLT_Mu5_Track2_Jpsi_v20,7,hltL1sL1SingleMu3,HLTLevel1GTSeed,-81,14,0,3.5,1.45,-0.479966,0.105658
+HLT_Mu5_Track2_Jpsi_v20,9,hltMu5TrackJpsiL1Filtered0,HLTMuonL1Filter,-81,14,0,3.5,1.45,-0.479966,0.105658
+HLT_Mu5_Track2_Jpsi_v20,22,hltMu5TrackJpsiL2Filtered3,HLTMuonL2PreFilter,83,0,-13,7.03247,1.44721,-0.200187,0
+HLT_Mu5_Track2_Jpsi_v20,48,hltMu5TrackJpsiL3Filtered3,HLTMuonL3PreFilter,83,1,-13,9.46263,0.934588,-0.24435,0
+HLT_Mu5_Track3p5_Jpsi_v6,7,hltL1sL1SingleMu3,HLTLevel1GTSeed,-81,14,0,3.5,1.45,-0.479966,0.105658
+HLT_Mu5_Track3p5_Jpsi_v6,9,hltMu5TrackJpsiL1Filtered0,HLTMuonL1Filter,-81,14,0,3.5,1.45,-0.479966,0.105658
+HLT_Mu5_Track3p5_Jpsi_v6,22,hltMu5TrackJpsiL2Filtered3,HLTMuonL2PreFilter,83,0,-13,7.03247,1.44721,-0.200187,0
+HLT_Mu5_Track3p5_Jpsi_v6,48,hltMu5TrackJpsiL3Filtered3,HLTMuonL3PreFilter,83,1,-13,9.46263,0.934588,-0.24435,0
