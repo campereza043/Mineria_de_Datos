@@ -1,0 +1,7 @@
+path,slot,moduleLabel,moduleType,VID,KEY,id,pt,eta,phi,mass
+HLT_Mu12_v17,7,hltL1sL1SingleMu7,HLTLevel1GTSeed,-81,4,0,7,-2.025,1.4399,0.105658
+HLT_Mu15_eta2p1_v4,7,hltL1sL1SingleMu7,HLTLevel1GTSeed,-81,4,0,7,-2.025,1.4399,0.105658
+HLT_Mu7_Track7_Jpsi_v19,7,hltL1sL1SingleMu7,HLTLevel1GTSeed,-81,4,0,7,-2.025,1.4399,0.105658
+AlCa_RPCMuonNoTriggers_v9,7,hltL1sAlCaRPC,HLTLevel1GTSeed,-81,4,0,7,-2.025,1.4399,0.105658
+AlCa_RPCMuonNoHits_v9,7,hltL1sAlCaRPC,HLTLevel1GTSeed,-81,4,0,7,-2.025,1.4399,0.105658
+AlCa_RPCMuonNormalisation_v9,7,hltL1sAlCaRPC,HLTLevel1GTSeed,-81,4,0,7,-2.025,1.4399,0.105658

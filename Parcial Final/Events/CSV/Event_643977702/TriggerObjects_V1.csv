@@ -1,0 +1,15 @@
+path,slot,moduleLabel,moduleType,VID,KEY,id,pt,eta,phi,mass
+HLT_DoubleMediumIsoPFTau30_Trk1_eta2p1_Jet30_v1,7,hltL1sDoubleTauJet44erorDoubleJetC64,HLTLevel1GTSeed,-86,73,0,60,-1.566,0.698132,0
+HLT_DoubleMediumIsoPFTau30_Trk1_eta2p1_Jet30_v1,7,hltL1sDoubleTauJet44erorDoubleJetC64,HLTLevel1GTSeed,-86,74,0,52,1.956,-1.74533,0
+HLT_DoubleMediumIsoPFTau30_Trk1_eta2p1_Jet30_v1,34,hltDoubleL2Tau30eta2p1,HLT1CaloJet,84,64,15,33.1844,1.9565,-1.868,2.86401
+HLT_DoubleMediumIsoPFTau30_Trk1_eta2p1_Jet30_v1,34,hltDoubleL2Tau30eta2p1,HLT1CaloJet,84,65,15,32.9933,-1.56488,0.551169,3.29222
+HLT_DoubleMediumIsoPFTau30_Trk1_eta2p1_Jet30_v1,47,hltDoubleL2Jets30eta2p1,HLT1CaloJet,85,0,0,65.6908,1.96681,-1.82415,11.7704
+HLT_DoubleMediumIsoPFTau30_Trk1_eta2p1_Jet30_v1,47,hltDoubleL2Jets30eta2p1,HLT1CaloJet,85,1,0,64.4295,-1.58003,0.549968,10.8677
+HLT_DoubleMediumIsoPFTau30_Trk1_eta2p1_Jet30_v1,48,hltTripleL2Jets30eta3,HLT1CaloJet,85,0,0,65.6908,1.96681,-1.82415,11.7704
+HLT_DoubleMediumIsoPFTau30_Trk1_eta2p1_Jet30_v1,48,hltTripleL2Jets30eta3,HLT1CaloJet,85,1,0,64.4295,-1.58003,0.549968,10.8677
+HLT_DoubleMediumIsoPFTau30_Trk1_eta2p1_v1,7,hltL1sDoubleTauJet44erorDoubleJetC64,HLTLevel1GTSeed,-86,73,0,60,-1.566,0.698132,0
+HLT_DoubleMediumIsoPFTau30_Trk1_eta2p1_v1,7,hltL1sDoubleTauJet44erorDoubleJetC64,HLTLevel1GTSeed,-86,74,0,52,1.956,-1.74533,0
+HLT_DoubleMediumIsoPFTau35_Trk1_eta2p1_Prong1_v1,7,hltL1sDoubleTauJet44erorDoubleJetC64,HLTLevel1GTSeed,-86,73,0,60,-1.566,0.698132,0
+HLT_DoubleMediumIsoPFTau35_Trk1_eta2p1_Prong1_v1,7,hltL1sDoubleTauJet44erorDoubleJetC64,HLTLevel1GTSeed,-86,74,0,52,1.956,-1.74533,0
+HLT_DoubleMediumIsoPFTau35_Trk1_eta2p1_v1,7,hltL1sDoubleTauJet44erorDoubleJetC64,HLTLevel1GTSeed,-86,73,0,60,-1.566,0.698132,0
+HLT_DoubleMediumIsoPFTau35_Trk1_eta2p1_v1,7,hltL1sDoubleTauJet44erorDoubleJetC64,HLTLevel1GTSeed,-86,74,0,52,1.956,-1.74533,0

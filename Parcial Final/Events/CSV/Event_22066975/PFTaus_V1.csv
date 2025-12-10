@@ -1,0 +1,4 @@
+eta,phi,pt,charge,isolationPFChargedHadrCandsPtSum,isolationPFGammaCandsEtSum,maximumHCALPFClusterEt,emFraction,hcalTotOverPLead,hcalMaxOverPLead,hcal3x3OverPLead,ecalStripSumEOverPLead,bremsRecoveryEOverPLead,electronPreIDOutput,electronPreIDDecision,hasMuonReference,caloComp,segComp,muonDecision
+-2.90041,-1.50273,6.40206,0,,,0,-1,0,0,0,0,,-1111,0,0,,,1
+-0.16181,3.02236,3.92575,0,,,0,-1,0,0,0,0,,-1111,0,0,,,1
+0.522232,0.14452,3.56289,0,,,0,-1,0,0,0,0,,-1111,0,0,,,1
